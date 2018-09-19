@@ -1,0 +1,36 @@
+Polygon 1:
+    Perimeter: 26.4 + 52*sqrt(.32)
+    Area: 135.04
+    Convex: no
+    Nb of invariant rotations: 2
+    Depth: 0
+Polygon 2:
+    Perimeter: 10.4 + 40*sqrt(.32)
+    Area: 44.80
+    Convex: no
+    Nb of invariant rotations: 2
+    Depth: 1
+Polygon 3:
+    Perimeter: 18.4 + 4*sqrt(.32)
+    Area: 4.16
+    Convex: no
+    Nb of invariant rotations: 1
+    Depth: 2
+Polygon 4:
+    Perimeter: 0.8 + 1*sqrt(.32)
+    Area: 0.08
+    Convex: yes
+    Nb of invariant rotations: 1
+    Depth: 2
+Polygon 5:
+    Perimeter: 1.6 + 4*sqrt(.32)
+    Area: 0.64
+    Convex: yes
+    Nb of invariant rotations: 1
+    Depth: 1
+Polygon 6:
+    Perimeter: 2.4
+    Area: 0.32
+    Convex: yes
+    Nb of invariant rotations: 2
+    Depth: 2

@@ -1,0 +1,6 @@
+Polygon 1:
+    Perimeter: 2.4 + 30*sqrt(.32)
+    Area: 5.12
+    Convex: no
+    Nb of invariant rotations: 1
+    Depth: 0

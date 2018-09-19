@@ -1,0 +1,78 @@
+Polygon 1:
+    Perimeter: 78.4
+    Area: 384.16
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 0
+Polygon 2:
+    Perimeter: 72.0
+    Area: 324.00
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 1
+Polygon 3:
+    Perimeter: 65.6
+    Area: 268.96
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 2
+Polygon 4:
+    Perimeter: 59.2
+    Area: 219.04
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 3
+Polygon 5:
+    Perimeter: 52.8
+    Area: 174.24
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 4
+Polygon 6:
+    Perimeter: 46.4
+    Area: 134.56
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 5
+Polygon 7:
+    Perimeter: 40.0
+    Area: 100.00
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 6
+Polygon 8:
+    Perimeter: 33.6
+    Area: 70.56
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 7
+Polygon 9:
+    Perimeter: 27.2
+    Area: 46.24
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 8
+Polygon 10:
+    Perimeter: 20.8
+    Area: 27.04
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 9
+Polygon 11:
+    Perimeter: 14.4
+    Area: 12.96
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 10
+Polygon 12:
+    Perimeter: 8.0
+    Area: 4.00
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 11
+Polygon 13:
+    Perimeter: 1.6
+    Area: 0.16
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 12

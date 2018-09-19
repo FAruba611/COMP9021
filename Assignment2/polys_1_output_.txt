@@ -1,0 +1,6 @@
+Polygon 1:
+    Perimeter: 1.6
+    Area: 0.16
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 0

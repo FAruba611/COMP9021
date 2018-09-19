@@ -1,0 +1,18 @@
+Polygon 1:
+    Perimeter: 16.0 + 34*sqrt(.32)
+    Area: 13.60
+    Convex: no
+    Nb of invariant rotations: 1
+    Depth: 0
+Polygon 2:
+    Perimeter: 30.4
+    Area: 11.52
+    Convex: yes
+    Nb of invariant rotations: 2
+    Depth: 0
+Polygon 3:
+    Perimeter: 16.0 + 34*sqrt(.32)
+    Area: 13.60
+    Convex: no
+    Nb of invariant rotations: 1
+    Depth: 0
